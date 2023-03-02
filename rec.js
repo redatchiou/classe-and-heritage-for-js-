@@ -2,6 +2,7 @@ class Regtangle{
     constructor(hauteur,largeur){
     this.hauteur=hauteur;
     this.largeur=largeur;
+	redaaaaaaaaaaa
 }
     showrec(){
         console.log('heuteur :' +this.hauteur+'cm')
